@@ -73,7 +73,7 @@ This assignment is broken down into the following tasks:
 
     
 ** Notes: 
-Some of the referenced codes used outside from the lecture are from these websites:
-https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/
-https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
-https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/understand-df-plot-in-pandas/
+Some of the referenced codes used outside from the lecture are from the websites below and from the support of tutor:
+- https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/
+- https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
+- https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib
